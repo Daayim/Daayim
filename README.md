@@ -69,6 +69,6 @@ You can click the Preview link to take a look at your changes.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=Daayim)
+![](https://komarev.com/ghpvc/?username=Daayim&color=blueviolet)
 
 
