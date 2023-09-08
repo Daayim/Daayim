@@ -1,5 +1,19 @@
-- 👋 Hello, 
-- I'm Daayim, a student at Memorial University pursuing a BASc. I am a gaming and tech enthusient, my passion for new technology drives me to continuously learn and grow in this ever-evolving field. On my GitHub page, you'll find the projects I've poured my time into and the collaborations that have shaped my journey 💻🤝
+### 👋 Hi there! I'm Daayim
+
+📚 **About Me**
+- 🎓 Pursuing a BASc at **Memorial University**.
+- 🎮 A gaming and tech enthusiast with a zest for new technologies.
+- 🚀 Driven by my passion, I'm on a continuous learning journey in this dynamic tech world.
+
+🌐 **Career Goals**
+- 💡 Aspiring to become a full-stack software developer, aiming to craft software products from scratch to finish.
+
+🖥 **On My GitHub**
+- 📂 Dive into the projects I've dedicated my energy and time to.
+- 🤝 Check out the collaborations that have molded my tech journey.
+
+Feel free to connect or check out the repositories below. Happy coding! 💻❤️
+
 <!---
 Daayim/Daayim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
