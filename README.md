@@ -2,8 +2,8 @@
 
 📚 **About Me**
 - 🎓 Pursuing a BASc at **Memorial University**.
-- 🎮 A gaming and tech enthusiast with a zest for new technologies.
-- 🚀 Driven by my passion, I'm on a continuous learning journey in this dynamic tech world.
+- 🎮 A gaming and tech enthusiast with a interest for new technologies.
+- 🚀 Driven by my passion, I'm am continuous learning in this rapid tech landscape.
 
 🌐 **Career Goals**
 - 💡 Aspiring to become a full-stack software developer, aiming to craft software products from scratch to finish.
@@ -12,7 +12,7 @@
 - 📂 Dive into the projects I've dedicated my energy and time to.
 - 🤝 Check out the collaborations that have molded my tech journey.
 
-Feel free to connect or check out the repositories below. Happy coding! 💻❤️
+Feel free to connect or check out the repositories below. 💻❤️
 
 <!---
 Daayim/Daayim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
