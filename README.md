@@ -2,8 +2,8 @@
 
 📚 **About Me**
 - 🎓 Pursuing a BASc at **Memorial University**.
-- 🎮 A gaming and tech enthusiast with a interest for new technologies.
-- 🚀 Driven by my passion, I'm am continuous learning in this rapid tech landscape.
+- 🎮 I love video games, Sci-Fi TV movies and shows, and coding.
+- 🚀 Driven by my passion, I'm am continuous learning in this rapid landscape.
 
 🌐 **Career Goals**
 - 💡 Aspiring to become a full-stack software developer, aiming to craft software products from scratch to finish.
