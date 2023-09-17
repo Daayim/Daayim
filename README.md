@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daayim-asim-4646a41a0/) 
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://localhost:5500)
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://daayim.github.io/Personal_Website/)
 
 ## 💻 Tech Stack
 
