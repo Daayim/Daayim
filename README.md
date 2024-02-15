@@ -6,7 +6,7 @@
 - 🚀 Driven by my passion, I'm am continuous learning in this rapid landscape.
 
 🌐 **Career Goals**
-- 💡 Aspiring to become a full-stack software developer, aiming to craft software products from scratch to finish.
+- 💡 Aspiring to become a embedded software developer, aiming to program embedded IoT devices from scratch to finish.
 
 🖥 **On My GitHub**
 - 📂 Dive into the projects I've dedicated my energy and time to.
