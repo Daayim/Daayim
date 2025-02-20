@@ -6,7 +6,7 @@
 - 🚀 Driven by my passion, I'm am continuous learning in this rapid landscape.
 
 🌐 **Career Goals**
-- 💡 Aspiring to become a embedded software developer, aiming to programs that interact with the real world.
+- 💡 Aspiring to become a embedded software developer, aiming to develop programs that interact with the real world.
 
 🖥 **On My GitHub**
 - 📂 Dive into the projects I've dedicated my energy and time to.
