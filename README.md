@@ -6,7 +6,7 @@
 - 🚀 Driven by my passion, I'm am continuous learning in this rapid landscape.
 
 🌐 **Career Goals**
-- 💡 Aspiring to become a embedded software developer, aiming to program embedded IoT devices from scratch to finish.
+- 💡 Aspiring to become a embedded software developer, aiming to bridge the gap between software and hardwawre.
 
 🖥 **On My GitHub**
 - 📂 Dive into the projects I've dedicated my energy and time to.
@@ -35,14 +35,12 @@ You can click the Preview link to take a look at your changes.
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-5586A4?logo=Flask&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=SQLite&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=MySQL&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=Microsoft-SQL-Server&logoColor=white&style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d01f00?logo=SQLAlchemy&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-5A545B?style=for-the-badge&logo=redis&logoColor=F0E541)
 ![InfluxDB](https://img.shields.io/badge/influxdb-5A545B?style=for-the-badge&logo=influxdb&logoColor=F0E541)
 ![Protobuf](https://img.shields.io/badge/protobuf-%233282B4.svg?style=for-the-badge&logo=protocol-buffers&logoColor=white)
-![Gitlab](https://img.shields.io/badge/Gitlab-000000?logo=Gitlab&logoColor=white&style=for-the-badge)
 ![Gitlab](https://img.shields.io/badge/Gitlab-000000?logo=Gitlab&logoColor=white&style=for-the-badge)
 ![Gitlab CI/CD](https://img.shields.io/badge/GitLab_CI_CD-FCA326?logo=Gitlab&logoColor=white&style=for-the-badge)
 ![Firmware](https://img.shields.io/badge/Firmware-0033A0?style=for-the-badge)
